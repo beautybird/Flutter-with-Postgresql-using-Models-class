@@ -3,16 +3,9 @@
 A Project to create a Postgresql Database for a Flutter App .
 Also create a DB connection between the App the database using Postgres API from pub.dev
 
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ video 1 : https://youtu.be/8Qitb_OLicQ
+ video 2 : https://youtu.be/48p65nNR8Bs
+ video 3 : https://youtu.be/WFe1kZhvUIw
+ video 4 : https://youtu.be/WFe1kZhvUIw
+ video 5 : https://youtu.be/pro4uT7D5aw
+ video 6 : https://youtu.be/xcolBOOJGfc
